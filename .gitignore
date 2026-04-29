@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+outputs/
+report.html
+diagnostic_report.html
+cardiac_report.html
